@@ -1,5 +1,5 @@
 .card {
-  @apply flex flex-col border-neutral-200 border rounded-lg p-5 gap-4 max-w-[340px] max-h-[240px] mt-[200px] shadow-inner;
+  @apply flex flex-col border-neutral-200 border rounded-lg p-5 gap-4 max-w-[340px] max-h-[240px] mt-[200px] shadow-inner bg-white;
 }
 
 .profile {

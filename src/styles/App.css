@@ -16,7 +16,7 @@ body {
 
 .container {
   min-width: 100%;
-  min-height: 100svh;
+  min-height: 100vh;
   @apply flex justify-center bg-[linear-gradient(147.52deg,_#F9FAFB_8.89%,_#D2D6DB_100.48%)];
 }
 
